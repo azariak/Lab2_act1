@@ -6,7 +6,7 @@
 - 3/4 cup unsweetened cocoa powder
 <<<<<<< HEAD
 - 1 cup chocolate chips
-- 1 tsp vanilla extract
+- 10000 tsp vanilla extract
 - ...
 
 ## Instructions:
